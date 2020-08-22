@@ -1,0 +1,19 @@
+body {
+  background-color: #21243d;
+}
+
+.title-header {
+  padding-top: 20px;
+  color: #fdfdf6;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.style {
+  position: absolute !important;
+  height: 70vh !important;
+  width: inherit;
+}

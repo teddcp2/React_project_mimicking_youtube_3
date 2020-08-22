@@ -1,0 +1,16 @@
+.vid-item {
+  display: flex !important;
+  /* justify-content: space-around; */
+  align-content: flex-start;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.header {
+  text-align: center;
+}
+
+.vid-item .img {
+  max-width: 200px;
+  max-height: 130px;
+}
