@@ -9,9 +9,9 @@ Created with CodeSandbox
 ![screen1](https://github.com/teddcp2/React_project_mimicking_youtube_3/blob/master/screen%201.PNG)
 
 ## Screen 2
-![screen2](https://github.com/teddcp2/React_project_mimicking_youtube_3/blob/master/screen%202.PNG)
+![screen2](https://github.com/teddcp2/React_project_mimicking_youtube_3/blob/master/screen2.PNG)
 
 ## Screen 3
-![screen3](https://github.com/teddcp2/React_project_mimicking_youtube_3/blob/master/screen%203.PNG)
+![screen3](https://github.com/teddcp2/React_project_mimicking_youtube_3/blob/master/screen3.PNG)
 
 ### ACKNOWLEGEMENTS --  Stephen Grinder [link](https://github.com/StephenGrider/redux-code/tree/master/videos)
